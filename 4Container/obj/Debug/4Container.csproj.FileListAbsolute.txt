@@ -1,0 +1,15 @@
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\4Container\bin\Debug\4Container.exe.config
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\4Container\bin\Debug\4Container.exe
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\4Container\bin\Debug\4Container.pdb
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\4Container\obj\Debug\4Container.csprojResolveAssemblyReference.cache
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\4Container\obj\Debug\4Container.exe
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\4Container\obj\Debug\4Container.pdb
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\4Container\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\4Container\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\4Container\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\4Container\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\4Container\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\4Container\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\4Container\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\4Container\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\4Container\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml

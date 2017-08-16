@@ -1,0 +1,6 @@
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\RegularExpression\bin\Debug\RegularExpression.exe.config
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\RegularExpression\bin\Debug\RegularExpression.exe
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\RegularExpression\bin\Debug\RegularExpression.pdb
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\RegularExpression\obj\Debug\RegularExpression.csprojResolveAssemblyReference.cache
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\RegularExpression\obj\Debug\RegularExpression.exe
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\RegularExpression\obj\Debug\RegularExpression.pdb

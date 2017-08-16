@@ -1,0 +1,5 @@
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\2Vererbung\bin\Debug\2Vererbung.exe.config
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\2Vererbung\bin\Debug\2Vererbung.exe
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\2Vererbung\bin\Debug\2Vererbung.pdb
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\2Vererbung\obj\Debug\2Vererbung.exe
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\2Vererbung\obj\Debug\2Vererbung.pdb

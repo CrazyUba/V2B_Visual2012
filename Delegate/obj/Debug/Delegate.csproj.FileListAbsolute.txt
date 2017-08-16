@@ -1,0 +1,6 @@
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\Delegate\bin\Debug\Delegate.exe.config
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\Delegate\bin\Debug\Delegate.exe
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\Delegate\bin\Debug\Delegate.pdb
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\Delegate\obj\Debug\Delegate.csprojResolveAssemblyReference.cache
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\Delegate\obj\Debug\Delegate.exe
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\Delegate\obj\Debug\Delegate.pdb

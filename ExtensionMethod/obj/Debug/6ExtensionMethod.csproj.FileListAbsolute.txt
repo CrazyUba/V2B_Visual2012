@@ -1,0 +1,6 @@
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\ExtensionMethod\bin\Debug\ExtensionMethod.exe.config
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\ExtensionMethod\bin\Debug\ExtensionMethod.exe
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\ExtensionMethod\bin\Debug\ExtensionMethod.pdb
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\ExtensionMethod\obj\Debug\6ExtensionMethod.csprojResolveAssemblyReference.cache
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\ExtensionMethod\obj\Debug\ExtensionMethod.exe
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\ExtensionMethod\obj\Debug\ExtensionMethod.pdb

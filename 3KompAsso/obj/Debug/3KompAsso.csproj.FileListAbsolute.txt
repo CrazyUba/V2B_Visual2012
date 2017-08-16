@@ -1,0 +1,6 @@
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\3KompAsso\bin\Debug\3KompAsso.exe.config
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\3KompAsso\bin\Debug\3KompAsso.exe
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\3KompAsso\bin\Debug\3KompAsso.pdb
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\3KompAsso\obj\Debug\3KompAsso.csprojResolveAssemblyReference.cache
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\3KompAsso\obj\Debug\3KompAsso.exe
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\3KompAsso\obj\Debug\3KompAsso.pdb
