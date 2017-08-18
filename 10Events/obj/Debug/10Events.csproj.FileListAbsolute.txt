@@ -1,0 +1,6 @@
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\10Events\bin\Debug\10Events.exe.config
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\10Events\bin\Debug\10Events.exe
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\10Events\bin\Debug\10Events.pdb
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\10Events\obj\Debug\10Events.csprojResolveAssemblyReference.cache
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\10Events\obj\Debug\10Events.exe
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\10Events\obj\Debug\10Events.pdb

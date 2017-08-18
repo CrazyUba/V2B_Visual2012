@@ -1,0 +1,43 @@
+2017-08-17 12:42:58,143 INFO Log4NetExample.Program - Test
+2017-08-17 12:43:41,444 INFO Log4NetExample.Program - Test
+2017-08-17 12:43:41,453 DEBUG Log4NetExample.Program - Debug
+2017-08-17 12:44:49,311 INFO Log4NetExample.Program - Test
+2017-08-17 12:44:49,319 DEBUG Log4NetExample.Program - Debug
+2017-08-17 12:47:08,455 INFO Log4NetExample.Program - Test
+2017-08-17 12:47:08,466 DEBUG Log4NetExample.Program - Debug
+2017-08-17 12:49:12,528 INFO Log4NetExample.Program - Test
+2017-08-17 12:49:12,539 DEBUG Log4NetExample.Program - Debug
+2017-08-17 12:49:12,540 INFO Loggername - Test
+2017-08-17 12:49:12,542 DEBUG Loggername - Debug
+2017-08-17 12:49:53,666 INFO Void .cctor() - Test
+2017-08-17 12:49:53,677 DEBUG Void .cctor() - Debug
+2017-08-17 12:49:53,678 INFO Loggername - Test
+2017-08-17 12:49:53,679 DEBUG Loggername - Debug
+2017-08-17 12:50:12,526 INFO Log4NetExample.Program - Test
+2017-08-17 12:50:12,536 DEBUG Log4NetExample.Program - Debug
+2017-08-17 12:50:12,537 INFO Loggername - Test
+2017-08-17 12:50:12,538 DEBUG Loggername - Debug
+2017-08-17 12:52:57,183 INFO Log4NetExample.Program - Test
+2017-08-17 12:52:57,199 DEBUG Log4NetExample.Program - Debug
+2017-08-17 12:52:57,200 INFO Loggername - Test
+2017-08-17 12:52:57,201 DEBUG Loggername - Debug
+2017-08-17 12:53:34,017 INFO Log4NetExample.Program - Test
+2017-08-17 12:53:34,032 DEBUG Log4NetExample.Program - Debug
+2017-08-17 12:53:34,034 INFO Loggername - Test
+2017-08-17 12:53:34,036 DEBUG Loggername - Debug
+2017-08-17 12:54:37,831 INFO Log4NetExample.Program - Test
+2017-08-17 12:54:37,846 DEBUG Log4NetExample.Program - Debug
+2017-08-17 12:54:37,849 INFO Loggername - Test
+2017-08-17 12:54:37,851 DEBUG Loggername - Debug
+2017-08-17 12:55:38,399 INFO Log4NetExample.Program - Test
+2017-08-17 12:55:38,414 DEBUG Log4NetExample.Program - Debug
+2017-08-17 12:55:38,416 INFO Loggername - Test
+2017-08-17 12:55:38,419 DEBUG Loggername - Debug
+2017-08-17 12:55:51,895 INFO Log4NetExample.Program - Test
+2017-08-17 12:55:51,911 DEBUG Log4NetExample.Program - Debug
+2017-08-17 12:55:51,913 INFO Loggername - Test
+2017-08-17 12:55:51,915 DEBUG Loggername - Debug
+2017-08-17 12:56:50,881 INFO Log4NetExample.Program - Just an info
+2017-08-17 12:56:50,896 DEBUG Log4NetExample.Program - An error occured
+2017-08-17 12:56:54,678 INFO Log4NetExample.Program - Just an info
+2017-08-17 12:56:54,693 DEBUG Log4NetExample.Program - An error occured

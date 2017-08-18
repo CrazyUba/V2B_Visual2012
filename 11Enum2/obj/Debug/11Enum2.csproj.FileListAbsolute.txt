@@ -1,0 +1,6 @@
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\11Enum2\bin\Debug\11Enum2.exe.config
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\11Enum2\bin\Debug\11Enum2.exe
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\11Enum2\bin\Debug\11Enum2.pdb
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\11Enum2\obj\Debug\11Enum2.csprojResolveAssemblyReference.cache
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\11Enum2\obj\Debug\11Enum2.exe
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\11Enum2\obj\Debug\11Enum2.pdb

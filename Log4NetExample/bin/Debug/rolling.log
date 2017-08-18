@@ -1,0 +1,22 @@
+2017-08-17 12:47:08,455 [1] INFO Log4NetExample.Program - Test
+2017-08-17 12:47:08,466 [1] DEBUG Log4NetExample.Program - Debug
+2017-08-17 12:49:12,528 [1] INFO Log4NetExample.Program - Test
+2017-08-17 12:49:12,539 [1] DEBUG Log4NetExample.Program - Debug
+2017-08-17 12:49:12,540 [1] INFO Loggername - Test
+2017-08-17 12:49:12,542 [1] DEBUG Loggername - Debug
+2017-08-17 12:49:53,666 [1] INFO Void .cctor() - Test
+2017-08-17 12:49:53,677 [1] DEBUG Void .cctor() - Debug
+2017-08-17 12:49:53,678 [1] INFO Loggername - Test
+2017-08-17 12:49:53,679 [1] DEBUG Loggername - Debug
+2017-08-17 12:50:12,526 [1] INFO Log4NetExample.Program - Test
+2017-08-17 12:50:12,536 [1] DEBUG Log4NetExample.Program - Debug
+2017-08-17 12:50:12,537 [1] INFO Loggername - Test
+2017-08-17 12:50:12,538 [1] DEBUG Loggername - Debug
+2017-08-17 12:52:57,183 [1] INFO Log4NetExample.Program - Test
+2017-08-17 12:52:57,199 [1] DEBUG Log4NetExample.Program - Debug
+2017-08-17 12:52:57,200 [1] INFO Loggername - Test
+2017-08-17 12:52:57,201 [1] DEBUG Loggername - Debug
+2017-08-17 12:56:50,881 [1] INFO Log4NetExample.Program - Just an info
+2017-08-17 12:56:50,896 [1] DEBUG Log4NetExample.Program - An error occured
+2017-08-17 12:56:54,678 [1] INFO Log4NetExample.Program - Just an info
+2017-08-17 12:56:54,693 [1] DEBUG Log4NetExample.Program - An error occured
