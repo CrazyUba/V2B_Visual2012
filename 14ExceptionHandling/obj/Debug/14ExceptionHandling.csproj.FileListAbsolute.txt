@@ -1,0 +1,6 @@
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\14ExceptionHandling\bin\Debug\14ExceptionHandling.exe.config
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\14ExceptionHandling\obj\Debug\14ExceptionHandling.csprojResolveAssemblyReference.cache
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\14ExceptionHandling\bin\Debug\14ExceptionHandling.exe
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\14ExceptionHandling\bin\Debug\14ExceptionHandling.pdb
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\14ExceptionHandling\obj\Debug\14ExceptionHandling.exe
+C:\Devel\VisalStudio\Projects\V2B_Visual2012\14ExceptionHandling\obj\Debug\14ExceptionHandling.pdb
